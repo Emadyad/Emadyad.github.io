@@ -472,7 +472,7 @@
           <p>I'm always interested in technology, projects, learning and building useful things.</p>
         </div>
         <div class="contact-actions">
-          <a class="contact-btn" href="https://github.com/YOUR_USERNAME" target="_blank" rel="noopener">GitHub</a>
+          <a class="contact-btn" href="https://github.com/EmadYad" target="_blank" rel="noopener">GitHub</a>
           <a class="contact-btn" href="#top">Back to top</a>
         </div>
       </div>
